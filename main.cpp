@@ -1,6 +1,4 @@
-#include <iostream>
-#include <memory>
-#include <cassert>
+#include <bits/stdc++. h>
 
 #include "entity/herbivorous_fish.hpp"
 #include "entity/seaweed.hpp"
